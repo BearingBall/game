@@ -1,0 +1,57 @@
+﻿  map.cpp
+c:\users\степан\source\repos\game\gamelib\textures.h(34): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\textures.h(45): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(17): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(38): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(138): warning C4101: secondAngle: неиспользованная локальная переменная
+c:\users\степан\source\repos\game\gamelib\map.cpp(258): warning C4838: преобразование из "size_t" в "int" требует сужающего преобразования
+c:\users\степан\source\repos\game\gamelib\map.cpp(258): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(258): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+c:\users\степан\source\repos\game\gamelib\map.cpp(258): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(261): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+c:\users\степан\source\repos\game\gamelib\map.cpp(261): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(261): warning C4838: преобразование из "size_t" в "int" требует сужающего преобразования
+c:\users\степан\source\repos\game\gamelib\map.cpp(261): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(296): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(295): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(294): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(301): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(302): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(303): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(304): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(311): warning C4244: =: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(317): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(316): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(315): warning C4244: аргумент: преобразование "const _Ty" в "Uint8", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\степан\source\repos\game\gamelib\map.cpp(324): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(323): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\степан\source\repos\game\gamelib\map.cpp(322): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  gameLib.vcxproj -> C:\Users\Степан\source\repos\game\x64\Release\gameLib.lib

@@ -1,0 +1,11 @@
+windowCoordinate= 0 0
+windowSize= 1920 1080
+mapSize= 300 300
+startPoint= 180 180
+playerSize= 4
+startViewAngle= 0
+linealSpeed= 0.5
+angleSpeed= 0.001
+viewRange= 600
+viewAngle= 0.8
+traceFreq= 0.002
